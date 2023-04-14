@@ -1,3 +1,5 @@
 # hello, world!
 
-hihihi
+I study in Netology
+
+14.04.2023
